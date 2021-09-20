@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Mariane Serpa
+## Hi !! I'm Mariane Serpa
 
 📙 Studying: Java
 
