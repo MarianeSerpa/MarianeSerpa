@@ -1,8 +1,8 @@
 ## Olá!! Eu sou a Mariane Serpa
 
-📙 Estudando: Java
+📙 Studying: Java
 
-🔍 Formação: Cursando Análise e Desenvolvimento de Sistemas
+🔍 Training: Studying Systems Analysis and Development
 
  <div>
   <a href="https://github.com/Serpa27">
